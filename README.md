@@ -66,10 +66,7 @@ pip install nltk random unittest
 - A probability distribution for each bigram based on observed counts.
 - A generated text based on n-gram probabilities.
 
-## License and References
-This project is for educational purposes and based on publicly available Shakespeare texts from the NLTK Gutenberg corpus.
-
-#### References:
+## References:
 - [NLTK](https://www.nltk.org/)
 - [Gutenberg Corpus](https://www.nltk.org/book/ch02.html)
 - [Shakespeare's Works](https://www.gutenberg.org/ebooks/100)
