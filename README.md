@@ -51,6 +51,8 @@ At the time of submiting this assignment, 9 people rated one of my generated tex
 ![image](https://github.com/user-attachments/assets/9c15570b-c8b9-4e0b-9788-83496a8f6be1)
 ![image](https://github.com/user-attachments/assets/a381eb16-eeda-4cb5-b125-228e2ee04a7f)
 
+As we can see, most agree that the text is similar to Shakespeare's language, but it still lacks coherence. This could be because we are not taking into account punctuation, which makes the text hard to read.
+
 ## Tests
 On the bottom of the notebook, there are tests for each of the functions used to fulfill the tasks of this assignment.
 
