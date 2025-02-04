@@ -1,8 +1,4 @@
 # nlp-module1-assignment
-
-# Shakespeare Bigram Analysis
-
-## Overview
 The goal for this assignment id to processes text from Shakespeare's works to analyze n-grams and compute probabilities of word sequences. The notebook utilizes Natural Language Processing (NLP) techniques to preprocess text, extract n-grams, and determine the likelihood of words following a given n-gram.
 
 ## Tasks
