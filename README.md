@@ -47,6 +47,10 @@ from_bigram_to_next_token_probs[('to', 'be')] = {'or': 0.67, 'not': 0.33}
 - Design a survey to collect feedback from human participants on the quality of the generated text.
 - Analyze the feedback to gain insights into how well your model imitates the style of Shakespeare.
 
+At the time of submiting this assignment, 9 people rated one of my generated texts. The ratings fo from 1 to 5, first based on similarity to Shakespeare's language, and then on coherence:
+![image](https://github.com/user-attachments/assets/9c15570b-c8b9-4e0b-9788-83496a8f6be1)
+![image](https://github.com/user-attachments/assets/a381eb16-eeda-4cb5-b125-228e2ee04a7f)
+
 ## Tests
 On the bottom of the notebook, there are tests for each of the functions used to fulfill the tasks of this assignment.
 
