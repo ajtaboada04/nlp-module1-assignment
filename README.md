@@ -48,6 +48,9 @@ from_bigram_to_next_token_probs[('to', 'be')] = {'or': 0.67, 'not': 0.33}
 - Analyze the feedback to gain insights into how well your model imitates the style of Shakespeare.
 
 At the time of submiting this assignment, 9 people rated one of my generated texts. The ratings fo from 1 to 5, first based on similarity to Shakespeare's language, and then on coherence:
+
+"to be or not to be that is the question whether tis nobler in the minde to suffer the slings and arrowes of outragious fortune or to take armes against a sea of troubles and by opposing end them to dye to sleepe to sleepe perchance to dreame i there s the rub for in that sleepe of death what dreames may come when we haue shuffel d off this mortall coile must giue vs pawse there s the respect that makes calamity of so long life for who would beare the whips and scornes of time the oppressors wrong the poore mans contumely"
+
 ![image](https://github.com/user-attachments/assets/9c15570b-c8b9-4e0b-9788-83496a8f6be1)
 ![image](https://github.com/user-attachments/assets/a381eb16-eeda-4cb5-b125-228e2ee04a7f)
 
